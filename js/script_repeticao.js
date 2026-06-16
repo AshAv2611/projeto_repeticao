@@ -107,4 +107,4 @@ for(let pessoa of pessoas){
 }
 
 //FOREACH
-const divForeach = document.querySelector('div-foreach')
+const divForeach = document.querySelector('#div-foreach')
